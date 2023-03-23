@@ -1,3 +1,6 @@
+# My www.patika.dev link
+# https://app.patika.dev/numankaya
+
 def flatten(list):
   myList_1 = []
   for i in list:
